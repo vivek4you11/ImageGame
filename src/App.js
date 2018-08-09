@@ -6,7 +6,6 @@ import Footer from './Footer';
 
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.css';
-import 'intro.js/introjs.css';
 
 import alphabet_B from './images/B.jpg';
 import alphabet_H from './images/H.jpg';
